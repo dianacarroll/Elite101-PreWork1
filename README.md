@@ -1,7 +1,6 @@
 # Elite101-PreWork1
 code2college homework repo
-a new line
-another new line
+INSTRUCTOR PREP
 
 # in a branch...
 And yet another!
